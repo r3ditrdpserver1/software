@@ -1,0 +1,6 @@
+{
+  "name": "AI Destekli Çok Amaçlı Asistan",
+  "description": "Gemini API kullanarak kişiye özel diyet/fitness planları oluşturan, kitap bulan, fiyat analizi yapan ve YouTube için piyasa araştırması, rakip analizi, detaylı video içerik üretim stratejileri/planları (B-roll/stok video arama bağlantıları ve AI araçları için prompt önerileri dahil) sunan (ancak video dosyası üretmeyen) React uygulaması.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
